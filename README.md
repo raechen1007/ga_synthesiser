@@ -1,3 +1,3 @@
 # ga_synthesiser
 (Not-Up-to-Date)
-The project remains confidential yet.
+The project is confidential yet. Please contact me if you want a demo.
