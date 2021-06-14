@@ -1,2 +1,3 @@
-# ga_synthesiser
-The project remains confidential yet. Please contact me for a demo if you are interested.
+Genetic Algorithms -- Synthetic Data Generator
+
+A synthetic data generator using evolutionary methods.
